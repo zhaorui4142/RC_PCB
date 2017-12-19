@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=5V Pin=P6-4
+Removed Pin From Net: NetName=LED_STD Pin=P6-5
+Removed Pin From Net: NetName=5V Pin=P7-4
+Removed Pin From Net: NetName=LED_STD Pin=P7-5
+Added Pin To Net: NetName=LED_STD Pin=P6-4
+Added Pin To Net: NetName=5V Pin=P6-5
+Added Pin To Net: NetName=LED_STD Pin=P7-4
+Added Pin To Net: NetName=5V Pin=P7-5

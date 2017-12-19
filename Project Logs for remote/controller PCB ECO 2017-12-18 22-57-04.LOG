@@ -1,0 +1,7 @@
+Added Component: Designator=USB(MICROUSB_1)
+Added Pin To Net: NetName=USB_V+ Pin=USB-1
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Pin To Net: NetName=GND Pin=USB-6
+Added Pin To Net: NetName=GND Pin=USB-6
+Added Pin To Net: NetName=GND Pin=USB-6
+Added Pin To Net: NetName=GND Pin=USB-6

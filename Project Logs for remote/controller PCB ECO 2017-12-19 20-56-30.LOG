@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=D4-2
+Change Component Comment : Designator=D4 Old Comment=LED New Comment=LED1
+Added Pin To Net: NetName=3V3 Pin=D4-2

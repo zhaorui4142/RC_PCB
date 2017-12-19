@@ -1,0 +1,4 @@
+Change Component Description : Designator=SWD Old Description=½Ó²å New Description=½Ó²å¼þ
+Added Component: Designator=C9(0805-2)
+Added Pin To Net: NetName=NRST Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2

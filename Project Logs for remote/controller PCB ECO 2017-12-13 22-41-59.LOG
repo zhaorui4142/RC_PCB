@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=5V Pin=C5-1
+Removed Pin From Net: NetName=5V Pin=D1-1
+Removed Pin From Net: NetName=VCC Pin=D3-2
+Removed Pin From Net: NetName=5V Pin=D4-2
+Removed Pin From Net: NetName=VCC Pin=P1-2
+Removed Pin From Net: NetName=5V Pin=USB-1
+Change Component Comment : Designator=P2 Old Comment=+BAT- New Comment=Batter
+Added Component: Designator=P6(HDR6*1*1.27)
+Added Component: Designator=P7(HDR6*1*1.27)
+Added Component: Designator=S1(SWITCH_A1)
+Added Pin To Net: NetName=5V Pin=D1-2
+Added Pin To Net: NetName=5V Pin=D2-2
+Added Pin To Net: NetName=5V Pin=D3-2
+Added Pin To Net: NetName=VCC Pin=D4-2
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=VCC Pin=P6-3
+Added Pin To Net: NetName=5V Pin=P6-4
+Added Pin To Net: NetName=LED_STD Pin=P6-5
+Added Pin To Net: NetName=LED_CHG Pin=P6-6
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=VCC Pin=P7-3
+Added Pin To Net: NetName=5V Pin=P7-4
+Added Pin To Net: NetName=LED_STD Pin=P7-5
+Added Pin To Net: NetName=LED_CHG Pin=P7-6
+Added Pin To Net: NetName=VCC Pin=S1-1
+Added Pin To Net: NetName=5V Pin=S1-2
+Added Pin To Net: NetName=USB_V+ Pin=C5-1
+Added Pin To Net: NetName=USB_V+ Pin=D1-1
+Added Pin To Net: NetName=USB_V+ Pin=P6-1
+Added Pin To Net: NetName=USB_V+ Pin=P7-1
+Added Pin To Net: NetName=USB_V+ Pin=USB-1
+Added Net: Name=USB_V+

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SWCLK Pin=SWD-1
+Removed Pin From Net: NetName=SWIO Pin=SWD-2
+Removed Pin From Net: NetName=GND Pin=SWD-3
+Removed Pin From Net: NetName=3V3 Pin=SWD-4
+Removed Pin From Net: NetName=NRST Pin=SWD-5
+Change Component DesignItemId : Designator=SWD Old DesignItemId=Header 5 New DesignItemId=Header 4
+Change Component Footprint: Designator=SWD Old Footprint=HDR5*1*1.27 New Footprint=HDR4X1X1.27
+Change Component Comment : Designator=SWD Old Comment=Header 5 New Comment=Header 4
+Added Pin To Net: NetName=3V3 Pin=SWD-1
+Added Pin To Net: NetName=GND Pin=SWD-2
+Added Pin To Net: NetName=SWIO Pin=SWD-3
+Added Pin To Net: NetName=SWCLK Pin=SWD-4
