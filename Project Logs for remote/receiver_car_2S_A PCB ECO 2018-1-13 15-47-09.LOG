@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=LED1 Pin=U1-18
+Removed Pin From Net: NetName=DRV_NFAULT Pin=U1-19
+Removed Pin From Net: NetName=DO5_G Pin=U1-21
+Removed Pin From Net: NetName=DRV_NSLEEP Pin=U1-39
+Removed Pin From Net: NetName=DRV_IN1 Pin=U1-40
+Removed Pin From Net: NetName=DRV_IN2 Pin=U1-41
+Removed Pin From Net: NetName=DO1_G Pin=U1-42
+Removed Pin From Net: NetName=DO2_G Pin=U1-43
+Removed Pin From Net: NetName=DO3_G Pin=U1-45
+Removed Pin From Net: NetName=DO4_G Pin=U1-46
+Change Component Description : Designator=D1 Old Description=肖特基? New Description=肖特基二极管
+Added Pin To Net: NetName=DRV_OUT1 Pin=P5-1
+Added Pin To Net: NetName=DRV_OUT2 Pin=P5-2
+Added Pin To Net: NetName=SERVO1 Pin=U1-10
+Added Pin To Net: NetName=SERVO2 Pin=U1-11
+Added Pin To Net: NetName=DRV_IN1 Pin=U1-18
+Added Pin To Net: NetName=DRV_IN2 Pin=U1-19
+Added Pin To Net: NetName=LED1 Pin=U1-21
+Added Pin To Net: NetName=DRV_NFAULT Pin=U1-39
+Added Pin To Net: NetName=DRV_NSLEEP Pin=U1-40
+Added Pin To Net: NetName=DO1_G Pin=U1-41
+Added Pin To Net: NetName=DO2_G Pin=U1-42
+Added Pin To Net: NetName=DO3_G Pin=U1-43
+Added Pin To Net: NetName=DO4_G Pin=U1-45
+Added Pin To Net: NetName=DO5_G Pin=U1-46

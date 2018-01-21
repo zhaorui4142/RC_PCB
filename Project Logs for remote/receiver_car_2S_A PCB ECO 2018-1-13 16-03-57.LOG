@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C6 Old Footprint=C-RB-5 New Footprint=C-RB-S6
+Change Component Footprint: Designator=C7 Old Footprint=C-RB-5 New Footprint=C-RB-S6
+Change Component Footprint: Designator=C13 Old Footprint=C-RB-8 New Footprint=CAP-3216
+Added Pin To Net: NetName=5V Pin=C7-1
+Added Pin To Net: NetName=5V Pin=R3-1

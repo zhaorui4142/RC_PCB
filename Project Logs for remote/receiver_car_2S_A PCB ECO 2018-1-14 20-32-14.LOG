@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3V3 Pin=TTL-1
+Removed Pin From Net: NetName=GND Pin=TTL-2
+Removed Pin From Net: NetName=USART1_RX Pin=TTL-3
+Removed Pin From Net: NetName=USART1_TX Pin=TTL-4
+Change Component DesignItemId : Designator=SWD Old DesignItemId=Header 4 New DesignItemId=Header 6
+Change Component Footprint: Designator=SWD Old Footprint=HDR4X1X1.27 New Footprint=HDR6*1*1.27
+Change Component Comment : Designator=SWD Old Comment=Header 4 New Comment=Header 6
+Added Pin To Net: NetName=USART1_RX Pin=SWD-5
+Added Pin To Net: NetName=USART1_TX Pin=SWD-6
