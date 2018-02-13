@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC8_2 Pin=C8-2
+Removed Pin From Net: NetName=NetC9_2 Pin=C9-2
+Change Component DesignItemId : Designator=D1 Old DesignItemId=D-Schottky New DesignItemId=Diode
+Change Component Footprint: Designator=D1 Old Footprint=DIODE-SMA New Footprint=SOD523
+Change Component Comment : Designator=D1 Old Comment=D-Schottky New Comment=1N5819
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
